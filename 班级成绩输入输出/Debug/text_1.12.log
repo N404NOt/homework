@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\Test_xk\text_1.12\text_1.12\源.cpp(16,6): warning C4101: “sum”: 未引用的局部变量
+  text_1.12.vcxproj -> D:\Test_xk\text_1.12\Debug\text_1.12.exe
