@@ -1,0 +1,5 @@
+﻿  game.cpp
+C:\Users\无泥菩\source\repos\text_1_20\text_1_20\game.cpp(117,11): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  源.cpp
+  正在生成代码...
+  text_1_20.vcxproj -> C:\Users\无泥菩\source\repos\text_1_20\Debug\text_1_20.exe
