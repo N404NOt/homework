@@ -1,0 +1,7 @@
+﻿  game.c
+D:\Test_xk\扫雷\扫雷\game.c(30,25): warning C4028: 形参 1 与声明不同
+  text.c
+D:\Test_xk\扫雷\扫雷\text.c(30,20): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+D:\Test_xk\扫雷\扫雷\text.c(32,20): warning C4048: “char (*)[9]”和“char [11][11]”数组的下标不同
+  正在生成代码...
+  扫雷.vcxproj -> D:\Test_xk\扫雷\Debug\扫雷.exe
