@@ -1,0 +1,4 @@
+﻿  源.c
+D:\Test_xk\new\new\源.c(15,57): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Test_xk\new\new\源.c(31,59): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  new.vcxproj -> D:\Test_xk\new\Debug\new.exe
